@@ -1,1 +1,1 @@
-# minigoup_analytics
+# minigroup_analytics
